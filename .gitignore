@@ -1,0 +1,5 @@
+__pycache__
+frames
+video
+*.gif
+.DS_Store
